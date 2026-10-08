@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Yuvraj 👋
 
-<!--
-**yuvraj-del/yuvraj-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at **Purdue University** (pursuing a second major in AI), Class of 2030. I build full-stack apps with machine learning underneath them.
 
-Here are some ideas to get you started:
+**Now building:** Titan, semantic search over Purdue faculty research that matches a question to the professors working on it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured project
+
+**[OdomAI](https://github.com/yuvraj-del/OdomAI)** · [live demo](https://odomai.onrender.com)
+Used-car price predictor, end to end: cleaned 100k Craigslist listings with pandas, trained an XGBoost model (R² 0.82, 54% lower error than a baseline), served it through a Flask REST API with a React front end and PostgreSQL history.
+
+### Also here
+
+- **[Tic-Tac-Toe](https://github.com/yuvraj-del/Tic-Tac-Toe)**: JavaFX game with an unbeatable minimax AI
+- **[Competitive-Programming](https://github.com/yuvraj-del/Competitive-Programming)**: 100+ LeetCode and USACO solutions in Python
+
+### Tools I work with
+
+**Languages:** Python · Java · JavaScript · SQL · HTML/CSS
+**ML / data:** XGBoost · scikit-learn · pandas · NumPy
+**Web:** Flask · React · PostgreSQL · REST APIs
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/yuvraj-kumar-singh-30a865255/) · sing2489@purdue.edu
