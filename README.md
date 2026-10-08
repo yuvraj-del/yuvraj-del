@@ -8,7 +8,7 @@ CS student at **Purdue University** (pursuing a second major in AI), Class of 20
 
 ### Featured project
 
-**[OdomAI](https://github.com/yuvraj-del/OdomAI)** · [live demo](https://odomai.onrender.com)
+**[OdomAI](https://github.com/yuvraj-del/OdomAI)** · [live demo](https://odomai.onrender.com)  
 Used-car price predictor, end to end: cleaned 100k Craigslist listings with pandas, trained an XGBoost model (R² 0.82, 54% lower error than a baseline), served it through a Flask REST API with a React front end and PostgreSQL history.
 
 ### Also here
@@ -18,8 +18,8 @@ Used-car price predictor, end to end: cleaned 100k Craigslist listings with pand
 
 ### Tools I work with
 
-**Languages:** Python · Java · JavaScript · SQL · HTML/CSS
-**ML / data:** XGBoost · scikit-learn · pandas · NumPy
+**Languages:** Python · Java · JavaScript · SQL · HTML/CSS  
+**ML / data:** XGBoost · scikit-learn · pandas · NumPy  
 **Web:** Flask · React · PostgreSQL · REST APIs
 
 ### Reach me
